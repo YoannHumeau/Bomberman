@@ -17,13 +17,11 @@ To build  : `make`
 
 ### Documentation
 
-Documentation is here : [bomberman.matteyeux.com](http://bomberman.matteyeux.com)
-
 You can generate doc with : `make docs`.
 
 ### Menu
 
-<center><img src="https://matteyeux.com/menu_demo.png"></center>
+<center><img src="https://raw.githubusercontent.com/YoannHumeau/Bomberman/edit_readme/images/menu_demo.png"></center>
 
 If you are running it in a VM there is an issue with unknown caracters.
 
